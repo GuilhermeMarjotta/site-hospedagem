@@ -1,0 +1,62 @@
+
+body{
+
+    background: url(../image/fundo.jpg);
+    background-size:cover;
+    color: rgb(0, 0, 5);
+   
+    
+}
+
+.letras{
+    text-align: right;
+    
+    height: 100vh;
+    background: rgba(0, 0, 0,.5);
+    padding-top: 2%;
+
+    
+}
+
+    
+.conteudo{
+    position: absolute;
+   top: 200px;
+right: 300px;
+text-align: center;
+
+
+
+    
+    
+    }
+    
+
+.meio{
+
+font-size: 60px;
+
+
+}
+.meio-abaixo{
+
+text-align:center;
+
+
+
+
+}
+
+a{
+    text-decoration: none;
+    border: 1px solid rgb(255, 255, 255);
+    padding: 10px 30px ;
+}    
+
+.logo{
+position: absolute;
+right: 820px;
+top: -200px;
+
+
+}
